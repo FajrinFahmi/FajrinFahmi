@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FajrinFahmi. I'm working as Research Assisten in Biocontrol Lab, IPB University
+- 👋 Hi, I’m @FajrinFahmi. I'm working as Research Assistant in Biocontrol Lab, IPB University
 - 👀 I’m interested in Insect Ecology and Insect Genetic Population
 - 🌱 I’m currently learning Data Science and Statistics
 - 📫 Just contact me at fajrin.fahmi@gmail.com
